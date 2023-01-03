@@ -5,7 +5,7 @@
 :root{
     --font1: Verdana, Geneva, Tahoma, sans-serif;
     --font2: 'Passion one', cursive;
-    --font3: 'Sriracha', cursive;'
+    --font3: 'Sriracha', cursive;
 }
 
 *{
@@ -74,7 +74,7 @@ section.imagem > p{
 }
 section#img01{
     background-image: url(./imagens/background001.jpg);
-    background-position: center center;
+    background-position: right center;
     background-size: cover;
     
 }
