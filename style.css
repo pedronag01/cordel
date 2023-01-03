@@ -73,13 +73,13 @@ section.imagem > p{
     text-shadow: 1px 1px 0px black;
 }
 section#img01{
-    background-image: url(../cordel/imagens/background001.jpg);
+    background-image: url(../Desafios/imagens/background001.jpg);
     background-position: right center;
     background-size: cover;
     
 }
 section#img02{
-    background-image: url(../cordel/imagens/background002.jpg);
+    background-image: url(../Desafios/imagens/background002.jpg);
     background-size: cover;
     
 }
